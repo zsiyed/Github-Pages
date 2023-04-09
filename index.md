@@ -13,9 +13,9 @@
 
 ***Feel free to reach out at zedsiyed@gmail.com.***
 
-<sub>github.com/zsiyed</sub>
+Github: <sub>github.com/zsiyed</sub>
 
-<sup>https://www.linkedin.com/in/zedsiyed/</sup>
+Linkedin: <sup>https://www.linkedin.com/in/zedsiyed/</sup>
 
 > This summer, I hope to get lots of exposure to new technology
 

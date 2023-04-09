@@ -7,7 +7,7 @@
 
 *I'm interested in gaining experience and learning new skills through tech internships.*
 
-~I don't like computer science~
+~~I don't like computer science~~
 
 **I also enjoy basketball analytics, math education, and _fitness_.**
 
@@ -19,9 +19,9 @@ Linkedin: <sup>https://www.linkedin.com/in/zedsiyed/</sup>
 
 > This summer, I hope to get lots of exposure to new technology
 
-'''
+```
 zed.learn_tech()
-'''
+```
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
